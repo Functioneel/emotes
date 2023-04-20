@@ -1,4 +1,4 @@
 # emotes
 | YOURMOM | YOURMOM TOO |
 | --- | --- |
-| ![YOURMOM](./emotes/LULE.gif) |
+| ![YOURMOM](./emotes/LULE.gif) | ![](./emotes/vibE.gif)
