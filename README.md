@@ -1,4 +1,6 @@
 # emotes
 | LULE | vibE |
 | --- | --- |
-| ![YOURMOM](./emotes/LULE.gif) | ![](./emotes/vibE.gif)
+| ![](./emotes/LULE.gif) | ![](./emotes/vibE.gif) |
+| MUGA | PauseManSit |
+| ![](./emotes/MUGA.gif) | ![](./emotes/PauseManSit.gif) |
